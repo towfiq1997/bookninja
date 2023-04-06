@@ -1,0 +1,15 @@
+{
+    "name": "towfiq1997/bookanything",
+    "autoload": {
+        "psr-4": {
+            "NoMadLab\\Book\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Towfiqul Islam",
+            "email": "mtowfiqulislam@gmail.com"
+        }
+    ],
+    "require": {}
+}
